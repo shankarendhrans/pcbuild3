@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{ 
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+li,ul,h1{
+    display: inline-block;
+    
+}
+ul{
+    margin-left: 60%;
+    color: gray;
+}
+ul :hover{
+    color: white;
+    cursor: pointer;
+}
+input{
+    width: 60%  ;
+    padding: 15px;
+
+}
+.searchbar{
+    padding: 20px;
+    text-align: center;
+    
+}
+.box{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 270px;
+    margin-right:50px ;
+}
+
+
+.box:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.box1{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 270px;
+    margin-right:50px ;
+}
+p{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.box1:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.box2{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 270px;
+    margin-right:50px ;
+}
+
+.box2:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.box3{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 270px;
+    margin-right:50px ;
+}
+
+.box3:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.box4{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 270px;
+    margin-right:50px ;
+}
+.box4:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.box5{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 270px;
+    margin-right:50px ;
+}
+.box5:hover:hover:hover:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.box6{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 270px;
+    margin-right:50px ;
+}
+.box6:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.box7{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 270px;
+    margin-right:50px ;
+}
+.box7:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+body{
+    background-color:aqua;
+}
+.two{
+    padding: 20px;
+    text-align: center;
+}
+.one{
+    padding: 10px;
+    margin: 10px;
+}
+.three{
+    padding: 10px;
+    margin: 10px;
+}
+.four{
+    
+    margin: 10px;
+}
+.five{
+    padding: 10px;
+    margin: 10px;
+}
+.six{
+    margin: 10px;
+}
+.AboutUs{
+    text-align: center;
+}
+.nav{
+    text-align: center;
+    padding: 10px;
+}
+.Contact{
+    text-align: center;
+}
+.purchase-title{
+    margin-bottom: 10px;
+
+}
+.purchase-sub{
+    padding: 20px;
+    display: block;
+    margin: 0px;
+}
+.purchase2-sub{
+    padding: 20px;
+    display: block;
+    margin: 0px;
+}
+.purchase3-sub{
+    padding: 20px;
+    display: block;
+    margin: 0px;
+}
+.purchase4-sub{
+    padding: 20px;
+    display: block;
+    margin: 0px;
+}
+.purchase5-sub{
+    padding: 20px;
+    display: block;
+    margin: 0px;
+}
+.purchase6-sub{
+    padding: 20px;
+    display: block;
+    margin: 0px;
+}
+.purchase7-sub{
+    padding: 20px;
+    display: block;
+    margin: 0px;
+}
+.purchase8-sub{
+    padding: 20px;
+    display: block;
+    margin: 0px;
+}
+.purchase9-sub{
+    padding: 20px;
+    display: block;
+    margin: 0px;
+}
